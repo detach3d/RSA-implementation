@@ -11,6 +11,6 @@ This project is a simple RSA encryption and decryption implementation in C++ usi
 - C++ compiler (C++17 or later)  
 
 ## Usage  
-1. Compile the project:  
+1. Run the project:  
    ```sh
    ./file_name
